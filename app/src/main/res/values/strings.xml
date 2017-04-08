@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Interactive Story</string>
+    <string name="title_activity_story">StoryActivity</string>
+    <string name="key_name">name</string>
+    <string name="non_name">friend</string>
+    <string name="app_title">Signals from Mars</string>
+    <string name="name_placeholder">Enter your name to begin</string>
+</resources>
